@@ -1,0 +1,54 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.vscode/
+.idea/
+build/
+*.apk
+*.aab
+*.app
+*.ipa
+*.dSYM
+*.so
+*.dll
+*.dylib
+*.exe
+*.log
+*.lock
+pubspec.lock
+
+# Android
+android/local.properties
+android/.gradle
+android/build/
+android/app/build/
+android/app/.cxx/
+android/app/src/main/kotlin/com/example/electroshop/
+android/app/src/main/java/com/example/electroshop/
+
+# iOS
+ios/.symlinks
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/.ios-plugins
+ios/build/
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# General
+.DS_Store
+.env
+.env.*
+.history
+.temp
+.tmp
+*.iml
+*.bak
+*.swp
+*~
